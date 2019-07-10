@@ -1,5 +1,3 @@
-# NCWD-3-warmup
-
 ## Instructions
 Recreate the image below using HTML & CSS! 
 
