@@ -1,1 +1,29 @@
+body { 
+	background-color:lightgreen;
 
+}
+
+h1 {
+	text-align: center;
+
+}
+
+h2 {
+	text-align: center;
+	color:blue;
+}
+
+
+
+ol {
+	
+	background-color:yellow;
+	width :300px;
+	padding: 40px;
+	margin:0 auto;
+	border: 22px dotted orange;
+}
+
+li {
+	text-align: center;
+}
